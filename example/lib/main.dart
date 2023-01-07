@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:iconoir/iconoir.dart';
+import 'package:iconoir_icons/iconoir.dart';
 
 void main() => runApp(const ExampleApp());
 

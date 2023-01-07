@@ -1,5 +1,5 @@
-name: iconoir
-description: HeroIcons set of SVG icons in your Flutter app. Both outlined & solid icon version are available.
+name: iconoir_icons
+description: Iconoir set of SVG icons in your Flutter app.
 version: 0.1.0
 
 environment:

@@ -1,4 +1,4 @@
-library iconoir;
+library iconoir_icons;
 
 class IconoirIcons {
   const IconoirIcons._(this.name);
