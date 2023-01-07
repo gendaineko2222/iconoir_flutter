@@ -22,7 +22,7 @@ class Iconoir extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final path = p.join(
-      'packages/iconoir/assets/',
+      'packages/iconoir_icons/assets/',
       icon.name,
     );
     return SvgPicture.asset(
